@@ -1,0 +1,6 @@
+{
+  "name": "Jugaad Mail Pro",
+  "description": "An enterprise-grade, disposable temporary email client with offline vault, automatic OTP decryption, QR share, and fast multi-node failover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
